@@ -13,4 +13,8 @@ describe('Upper Case First Test',function(){
    it('Function Should Trim the spaces and Uppercase the First Character.',function(){
       assert.equal(ucFirst('   abcd'),'Abcd'); 
    });
+    
+    it('Withour Argument Function Should return Empty String.',function(){
+      assert.equal(ucFirst(''),''); 
+   });
 });

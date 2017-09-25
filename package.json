@@ -1,6 +1,6 @@
 {
   "name": "uppercase-first",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Upper Case First Character Of A String.",
   "main": "uppercase-first.js",
   "scripts": {

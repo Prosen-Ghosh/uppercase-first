@@ -50,6 +50,8 @@ ucFirst('a a')
 ucFirst(' abc')
 //=> 'Abc'
 
+ucFirst(); // return empty string
+//=> ''
 ```
 
 
