@@ -1,7 +1,8 @@
 # uppercase-first
+Upper Case First Character Of A String.
 
 ![npm](https://img.shields.io/npm/v/uppercase-first.svg) ![license](https://img.shields.io/npm/l/uppercase-first.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/uppercase-first.svg)
-Upper Case First Character Of A String.
+
 
 ![nodei.co](https://nodei.co/npm/uppercase-first.png?downloads=true&downloadRank=true&stars=true)
 
@@ -16,6 +17,17 @@ Upper Case First Character Of A String.
 
 `npm install --save uppercase-first`
 
+## Browser Script Tag
+
+**For Production Use**
+```js
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/uppercase-first/3949a9f3/uppercase-first.js"></script>
+```
+**For Development Use**
+
+```js
+<script src="https://rawgit.com/Prosen-Ghosh/uppercase-first/master/uppercase-first.js"></script>
+```
 
 ## Development Dependencies
 
